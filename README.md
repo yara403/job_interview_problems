@@ -15,4 +15,4 @@ Here I gather problems resolution to algorithm challenges found in job interview
 | 2 | ▀ | 2 |
 | 3 | ▀ | 2 |
 
-![Message printed in the console after reading the table above](../images/secret_message.jpg)
+![Message printed in the console after reading the table above](/images/secret_message.jpg)
